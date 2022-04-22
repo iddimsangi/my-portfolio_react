@@ -11,7 +11,8 @@ export const greetings = {
   title: "Hi all, I'm iddi",
   description:
     "Solution-driven front-end developer with 4.5 years of experience developing consumer-focused websites using HTML5,CSS3,SASS,JavaScript,Typescript and Reactjs. Built web applications for desktop and mobile app users meeting highest standards for web design, user experience,best practices and speed.Designed and developed web applications across multiple APIs,third-party integrations and databases.",
-  resumeLink: "https://drive.google.com/drive/u/0/my-drive",
+  resumeLink:
+    "https://drive.google.com/file/d/1xWDTfpKmSGgDVahhQDVaPsdRgGfVCjqk/view?usp=sharing",
 };
 
 export const openSource = {
@@ -228,20 +229,39 @@ export const experience = [
 
 export const projects = [
   {
-    name: "Jipeh Cleaning Company",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-    link: "http://jipehcompany.co.tz/",
+    name: "Nipale",
+    desc: "Nipale is a website which helps people who wants to having fun and enjoy, to discover the best outing places in Dar es salaam",
+    link: "https://demo.nipale.com/",
   },
   {
-    name: "Vitamin Genge",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-    github: "https://github.com/1hanzla100",
+    name: "React simple eShop App",
+    desc: "Simple react redux eShop Application, where data are fetched from online Api and displayed, and also you can click a particular product and view its details.",
+    link: "https://simple-eshop.netlify.app",
   },
   {
-    name: "Ultra Architech Website",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-    github: "https://github.com/1hanzla100",
-    link: "https://example.com",
+    name: "React Dashboard",
+    desc: "Simple Dashboard designed by react and it is responsive",
+    link: "https://dashboard-iddi.netlify.app",
+  },
+  {
+    name: "Ufuta(Sesame) website",
+    desc: "Sesame website is the site which shows sesame products , its availability and also the company can export sesame all over the east African countries.",
+    link: "https://ufutacrispo.netlify.app",
+  },
+  {
+    name: "Ultra-archtect company website",
+    desc: "ULTRA Architects is a quality-driven Local Architectural Firm based in Dar es Salaam, Tanzania,East Africa.",
+    link: "https://ultra-archtech.netlify.app",
+  },
+  {
+    name: "Mainland Safari website",
+    desc: "Mainland Safari tours dreamed of bringing tourists into this beautiful country, having the best experiences with the wildlife, and being able to share the best of what Tanzania has to offer especially our lovely country Tanzania.",
+    link: "https://mainland-tours.netlify.app",
+  },
+  {
+    name: "Antd todo app",
+    desc: "Ant design todo Application, where you can add, mark as complete and also filter todos depends on status.",
+    link: "https://antd-todo-app.netlify.app",
   },
 ];
 
