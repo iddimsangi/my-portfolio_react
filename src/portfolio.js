@@ -236,7 +236,7 @@ export const projects = [
   {
     name: "React simple eShop App",
     desc: "Simple react redux eShop Application, where data are fetched from online Api and displayed, and also you can click a particular product and view its details.",
-    link: "https://simple-eshop-app.netlify.app/",
+    link: "https://simple-eshop-application.netlify.app/",
   },
   {
     name: "React Dashboard",
